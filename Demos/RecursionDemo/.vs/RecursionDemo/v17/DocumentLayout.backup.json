@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\Demos\\RecursionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E054A9D4-76B0-45BA-BA50-A76C8B6D097E}|RecursionDemo\\RecursionDemo.csproj|d:\\profiles\\jra4260\\source\\repos\\otakufueledbycoffee\\106-personal-repo\\demos\\recursiondemo\\recursiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E054A9D4-76B0-45BA-BA50-A76C8B6D097E}|RecursionDemo\\RecursionDemo.csproj|solutionrelative:recursiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\Demos\\RecursionDemo\\RecursionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "RecursionDemo\\Program.cs",
+              "ToolTip": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\Demos\\RecursionDemo\\RecursionDemo\\Program.cs",
+              "RelativeToolTip": "RecursionDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:41:27.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
