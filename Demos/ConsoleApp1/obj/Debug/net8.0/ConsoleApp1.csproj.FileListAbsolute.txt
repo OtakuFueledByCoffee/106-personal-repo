@@ -1,0 +1,15 @@
+D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\Demos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\Demos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\Demos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\Demos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\Demos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\Demos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\Demos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\Demos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\Demos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\Demos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\Demos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\Demos\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\Demos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\Demos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\Demos\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
