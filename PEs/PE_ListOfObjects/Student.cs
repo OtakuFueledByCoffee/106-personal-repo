@@ -59,6 +59,10 @@ namespace PE_ListOfObjects
         }
 
         // -------------- Methods --------------
+        /// <summary>
+        /// Method to return a string of student's data
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             return $"Name: {name}\n" +

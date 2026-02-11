@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\106-personal-repo\\PEs\\PE_ListOfObjects\\PE_ListOfObjects.csproj",
+      "projectUniqueName": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\PEs\\PE_ListOfObjects\\PE_ListOfObjects.csproj",
       "projectName": "PE_ListOfObjects",
-      "projectPath": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\106-personal-repo\\PEs\\PE_ListOfObjects\\PE_ListOfObjects.csproj",
+      "projectPath": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\PEs\\PE_ListOfObjects\\PE_ListOfObjects.csproj",
       "packagesPath": "D:\\Profiles\\jra4260\\.nuget\\packages\\",
-      "outputPath": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\106-personal-repo\\PEs\\PE_ListOfObjects\\obj\\",
+      "outputPath": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\PEs\\PE_ListOfObjects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
