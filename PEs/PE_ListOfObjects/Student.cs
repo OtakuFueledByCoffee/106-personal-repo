@@ -47,5 +47,23 @@ namespace PE_ListOfObjects
             }
         }
 
+        // -------------- Constructors --------------
+        /// <summary>
+        /// Parameterized constructor for student data 
+        /// </summary>
+        public Student(string name, string major, int year)
+        {
+            this.name = name;
+            this.major = major;
+            this.year = year;
+        }
+
+        // -------------- Methods --------------
+        public override string ToString()
+        {
+            return $"Name: {name}\n" +
+                $"Major: {major}\n" +
+                $"Year: {year} year";
+        }
     }
 }
