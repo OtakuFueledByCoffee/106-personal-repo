@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PE_ListOfObjects")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6afe3d685d844b228d455dff771a38dd19c6411")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f612d7724c02353dd122b160e9d249d304ed0a7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PE_ListOfObjects")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PE_ListOfObjects")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

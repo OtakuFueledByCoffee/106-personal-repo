@@ -21,7 +21,7 @@ namespace PE_ListOfObjects
         /// </summary>
         /// <param name="name"></param>
         /// <param name="students"></param>
-        public Roster(string name, List<Student> students)
+        public Roster(string name, List<Student> students = new List<Student>)
         {
             this.rosterName = name;
             this.students = students;
