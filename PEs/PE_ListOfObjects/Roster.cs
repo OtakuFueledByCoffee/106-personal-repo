@@ -11,7 +11,7 @@ namespace PE_ListOfObjects
     {
         // -------------- Fields --------------
         protected string rosterName;
-        List<Student> students;
+        List<Student> students = new List<Student>();
 
         // -------------- Properties --------------
 
@@ -21,7 +21,7 @@ namespace PE_ListOfObjects
         /// </summary>
         /// <param name="name"></param>
         /// <param name="students"></param>
-        public Roster(string name, List<Student> students = new List<Student>)
+        public Roster(string name, List<Student> students)
         {
             this.rosterName = name;
             this.students = students;
@@ -85,7 +85,7 @@ namespace PE_ListOfObjects
             name = Console.ReadLine()!;
             Console.Write("Major: ");
             major = Console.ReadLine()!;
-            Console.WriteLine("Year Level: ");
+            Console.Write("Year Level: ");
             yearAsString = Console.ReadLine()!;
 
             // Checking if year inputted is a valid integer
@@ -95,30 +95,32 @@ namespace PE_ListOfObjects
                 yearAsString = Console.ReadLine()!;
             }
 
-            // Create new Student object
-            student = new Student(name, major, year);
 
             // Check if student exists in roster
             for (int i = 0; i < students.Count; i++)
             {
-                if (students[i].Name == student.Name)
+                if (students[i].Name == name)
                 {
-                    // Adding student to roster
-                    students.Add(student);
+                    // Print confirmation if student is already in roster
+                    Console.WriteLine($"Unable to add {name} to roster: {name} already exists.\n");
 
-                    // Print confirmation 
-                    Console.WriteLine($"Added {student.Name} to to the roster.");
+                    // Return null
+                    return null!;
 
-                    // Return student object
-                    return student;
                 }
             }
 
-            // Print confirmation if student is already in roster
-            Console.WriteLine($"Unable to add {student.Name} to roster: {student.Name} already exists.");
+            // Create new Student object
+            student = new Student(name, major, year);
 
-            // Return null
-            return null!;
+            // Adding student to roster
+            students.Add(student);
+
+            // Print confirmation 
+            Console.WriteLine($"Added {student.Name} to to the roster.\n");
+
+            // Return student object
+            return student;
         }
 
         /// <summary>
@@ -132,8 +134,9 @@ namespace PE_ListOfObjects
             // For loop to print all student information from list
             for (int i = 0; i < students.Count; i++)
             {
-                Console.WriteLine($"\tStudent #{i+1}:");
-                students[i].ToString();
+                Console.WriteLine($"\nStudent #{i+1}");
+                Console.WriteLine(students[i].ToString());
+                Console.WriteLine();
             }
         }
     }

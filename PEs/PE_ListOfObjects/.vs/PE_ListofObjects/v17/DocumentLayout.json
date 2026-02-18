@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{E9E53441-6B45-49FD-9758-484E1796004C}|PE_ListOfObjects.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9E53441-6B45-49FD-9758-484E1796004C}|PE_ListOfObjects.csproj|d:\\profiles\\jra4260\\source\\repos\\otakufueledbycoffee\\106-personal-repo\\pes\\pe_listofobjects\\roster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9E53441-6B45-49FD-9758-484E1796004C}|PE_ListOfObjects.csproj|solutionrelative:roster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9E53441-6B45-49FD-9758-484E1796004C}|PE_ListOfObjects.csproj|d:\\profiles\\jra4260\\source\\repos\\otakufueledbycoffee\\106-personal-repo\\pes\\pe_listofobjects\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9E53441-6B45-49FD-9758-484E1796004C}|PE_ListOfObjects.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E53441-6B45-49FD-9758-484E1796004C}|PE_ListOfObjects.csproj|d:\\profiles\\jra4260\\source\\repos\\otakufueledbycoffee\\106-personal-repo\\pes\\pe_listofobjects\\roster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E53441-6B45-49FD-9758-484E1796004C}|PE_ListOfObjects.csproj|solutionrelative:roster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,16 +26,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Roster.cs",
               "DocumentMoniker": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\PEs\\PE_ListOfObjects\\Roster.cs",
               "RelativeDocumentMoniker": "Roster.cs",
               "ToolTip": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\PEs\\PE_ListOfObjects\\Roster.cs",
               "RelativeToolTip": "Roster.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAArwBcAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAIwIsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T18:43:06.746Z",
-              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -46,21 +45,20 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\PEs\\PE_ListOfObjects\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwB8AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwCQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T18:22:25.758Z",
-              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\PEs\\PE_ListOfObjects\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
               "ToolTip": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\PEs\\PE_ListOfObjects\\Student.cs",
               "RelativeToolTip": "Student.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowAoAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T18:42:56.076Z",
               "EditorCaption": ""

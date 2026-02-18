@@ -65,9 +65,9 @@ namespace PE_ListOfObjects
         /// <returns></returns>
         public override string ToString()
         {
-            return $"Name: {name}\n" +
-                $"Major: {major}\n" +
-                $"Year: {year} year";
+            return $"\tName: {name}\n" +
+                $"\tMajor: {major}\n" +
+                $"\tYear: {year} year";
         }
     }
 }
