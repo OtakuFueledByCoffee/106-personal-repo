@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\PEs\\PE_DictionariesVsLists\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74967AE1-3423-42AD-8497-7F57CB20508B}|PE_DictionariesVsLists.csproj|d:\\profiles\\jra4260\\source\\repos\\otakufueledbycoffee\\106-personal-repo\\pes\\pe_dictionariesvslists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74967AE1-3423-42AD-8497-7F57CB20508B}|PE_DictionariesVsLists.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B71BBC1-420B-4A01-AA29-F2339EEDEB68}|PE_DictionariesVsLists.csproj|d:\\profiles\\jra4260\\source\\repos\\otakufueledbycoffee\\106-personal-repo\\pes\\pe_dictionariesvslists\\wordloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B71BBC1-420B-4A01-AA29-F2339EEDEB68}|PE_DictionariesVsLists.csproj|solutionrelative:wordloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B71BBC1-420B-4A01-AA29-F2339EEDEB68}|PE_DictionariesVsLists.csproj|d:\\profiles\\jra4260\\source\\repos\\otakufueledbycoffee\\106-personal-repo\\pes\\pe_dictionariesvslists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B71BBC1-420B-4A01-AA29-F2339EEDEB68}|PE_DictionariesVsLists.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B71BBC1-420B-4A01-AA29-F2339EEDEB68}|PE_DictionariesVsLists.csproj|d:\\profiles\\jra4260\\source\\repos\\otakufueledbycoffee\\106-personal-repo\\pes\\pe_dictionariesvslists\\words.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8B71BBC1-420B-4A01-AA29-F2339EEDEB68}|PE_DictionariesVsLists.csproj|solutionrelative:words.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "words.txt",
+              "DocumentMoniker": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\PEs\\PE_DictionariesVsLists\\words.txt",
+              "RelativeDocumentMoniker": "words.txt",
+              "ToolTip": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\PEs\\PE_DictionariesVsLists\\words.txt",
+              "RelativeToolTip": "words.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-18T18:31:15.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WordLoader.cs",
+              "DocumentMoniker": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\PEs\\PE_DictionariesVsLists\\WordLoader.cs",
+              "RelativeDocumentMoniker": "WordLoader.cs",
+              "ToolTip": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\PEs\\PE_DictionariesVsLists\\WordLoader.cs",
+              "RelativeToolTip": "WordLoader.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAASwCsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:31:12.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\PEs\\PE_DictionariesVsLists\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Profiles\\jra4260\\source\\repos\\OtakuFueledByCoffee\\106-personal-repo\\PEs\\PE_DictionariesVsLists\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T18:24:00.249Z",
               "EditorCaption": ""

@@ -1,4 +1,7 @@
-﻿namespace PE_DictionariesVsLists
+﻿// Jonathan Alava
+// 2/18/2026
+// Experience the speed of hash table lookups and their implementation in C# as Dictionaries
+namespace PE_DictionariesVsLists
 {
     class Program
     {
@@ -14,6 +17,8 @@
 
             // *********************
             // TODO: Put your code between here...
+
+
 
             // ...and here.
             // *********************

@@ -41,7 +41,8 @@
                 {
                     // ***************************************************************************
                     // TODO: REPLACE THIS with code to add the word to both the list and the dictionary
-                    Console.WriteLine(line);
+                    wordList.Add(line);
+                    wordDictionary.Add(line, );
                     // ***************************************************************************
                 }
             }

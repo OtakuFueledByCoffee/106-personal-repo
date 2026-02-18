@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PE_DictionariesVsLists")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2d6c1735b5235cfd2c0a2bb0aa2c96b7241d672")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5b8bc2e3911f108fcd144e67162cde7dc305a88")]
 [assembly: System.Reflection.AssemblyProductAttribute("PE_DictionariesVsLists")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PE_DictionariesVsLists")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
