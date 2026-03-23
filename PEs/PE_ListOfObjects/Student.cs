@@ -34,6 +34,10 @@ namespace PE_ListOfObjects
             {
                 return major;
             }
+            set
+            {
+                major = value;
+            }
         }
 
         /// <summary>

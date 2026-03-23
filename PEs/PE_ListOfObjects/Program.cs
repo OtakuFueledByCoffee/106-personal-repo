@@ -21,6 +21,7 @@ namespace PE_ListOfObjects
 
             string userInput;
             int userInputAsInt = 0;
+            Student newStudent;
 
             // Loop to ask user for input until user chooses to quit
 
@@ -53,14 +54,41 @@ namespace PE_ListOfObjects
                 {
                     case 1:
                         // 1 - Add a student
-                        allStudents.AddStudent();
+                        newStudent = allStudents.AddStudent();
+                        // allStudents.AddStudent();
+
+                        // If freshman, add to freshmen list as well
+                        if (newStudent != null && newStudent.Year == 1)
+                        {
+                            freshmen.AddStudent(newStudent);
+                        }
                         break;
                     case 2:
                         // 2 - Change major for a student
+                        Console.Write("Enter student's name: ");
+                        string name = Console.ReadLine()!;
+
+                        Student student = allStudents.SearchByName(name);
+
+                        if (student == null)
+                        {
+                            Console.WriteLine("Student not found.\n");
+                        }
+                        else
+                        {
+                            Console.Write("Enter new major: ");
+                            string newMajor = Console.ReadLine()!;
+
+                            student.Major = newMajor;
+
+                            Console.WriteLine($"{student.Name}'s major updated to {newMajor}.\n");
+                        }
                         break;
                     case 3:
                         // 3 - Print rosters
+                        Console.WriteLine("All Students");
                         allStudents.DisplayRoster();
+                        Console.WriteLine("Freshmen");
                         freshmen.DisplayRoster();
                         break;
                     case 4:

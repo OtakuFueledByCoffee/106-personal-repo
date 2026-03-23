@@ -28,3 +28,18 @@ D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\PEs\PE_Li
 D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\PEs\PE_ListOfObjects\obj\Debug\net8.0\PE_ListOfObjects.pdb
 D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\PEs\PE_ListOfObjects\obj\Debug\net8.0\PE_ListOfObjects.genruntimeconfig.cache
 D:\Profiles\jra4260\source\repos\OtakuFueledByCoffee\106-personal-repo\PEs\PE_ListOfObjects\obj\Debug\net8.0\ref\PE_ListOfObjects.dll
+C:\Users\legof\OneDrive\Documents\IGME 105\105-personal-repo-OtakuFueledByCoffee\106-personal-repo\PEs\PE_ListOfObjects\bin\Debug\net8.0\PE_ListOfObjects.exe
+C:\Users\legof\OneDrive\Documents\IGME 105\105-personal-repo-OtakuFueledByCoffee\106-personal-repo\PEs\PE_ListOfObjects\bin\Debug\net8.0\PE_ListOfObjects.deps.json
+C:\Users\legof\OneDrive\Documents\IGME 105\105-personal-repo-OtakuFueledByCoffee\106-personal-repo\PEs\PE_ListOfObjects\bin\Debug\net8.0\PE_ListOfObjects.runtimeconfig.json
+C:\Users\legof\OneDrive\Documents\IGME 105\105-personal-repo-OtakuFueledByCoffee\106-personal-repo\PEs\PE_ListOfObjects\bin\Debug\net8.0\PE_ListOfObjects.dll
+C:\Users\legof\OneDrive\Documents\IGME 105\105-personal-repo-OtakuFueledByCoffee\106-personal-repo\PEs\PE_ListOfObjects\bin\Debug\net8.0\PE_ListOfObjects.pdb
+C:\Users\legof\OneDrive\Documents\IGME 105\105-personal-repo-OtakuFueledByCoffee\106-personal-repo\PEs\PE_ListOfObjects\obj\Debug\net8.0\PE_ListOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legof\OneDrive\Documents\IGME 105\105-personal-repo-OtakuFueledByCoffee\106-personal-repo\PEs\PE_ListOfObjects\obj\Debug\net8.0\PE_ListOfObjects.AssemblyInfoInputs.cache
+C:\Users\legof\OneDrive\Documents\IGME 105\105-personal-repo-OtakuFueledByCoffee\106-personal-repo\PEs\PE_ListOfObjects\obj\Debug\net8.0\PE_ListOfObjects.AssemblyInfo.cs
+C:\Users\legof\OneDrive\Documents\IGME 105\105-personal-repo-OtakuFueledByCoffee\106-personal-repo\PEs\PE_ListOfObjects\obj\Debug\net8.0\PE_ListOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\legof\OneDrive\Documents\IGME 105\105-personal-repo-OtakuFueledByCoffee\106-personal-repo\PEs\PE_ListOfObjects\obj\Debug\net8.0\PE_ListOfObjects.sourcelink.json
+C:\Users\legof\OneDrive\Documents\IGME 105\105-personal-repo-OtakuFueledByCoffee\106-personal-repo\PEs\PE_ListOfObjects\obj\Debug\net8.0\PE_ListOfObjects.dll
+C:\Users\legof\OneDrive\Documents\IGME 105\105-personal-repo-OtakuFueledByCoffee\106-personal-repo\PEs\PE_ListOfObjects\obj\Debug\net8.0\refint\PE_ListOfObjects.dll
+C:\Users\legof\OneDrive\Documents\IGME 105\105-personal-repo-OtakuFueledByCoffee\106-personal-repo\PEs\PE_ListOfObjects\obj\Debug\net8.0\PE_ListOfObjects.pdb
+C:\Users\legof\OneDrive\Documents\IGME 105\105-personal-repo-OtakuFueledByCoffee\106-personal-repo\PEs\PE_ListOfObjects\obj\Debug\net8.0\PE_ListOfObjects.genruntimeconfig.cache
+C:\Users\legof\OneDrive\Documents\IGME 105\105-personal-repo-OtakuFueledByCoffee\106-personal-repo\PEs\PE_ListOfObjects\obj\Debug\net8.0\ref\PE_ListOfObjects.dll

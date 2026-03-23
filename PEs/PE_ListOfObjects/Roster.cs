@@ -51,17 +51,17 @@ namespace PE_ListOfObjects
             {
                 if (students[i].Name == s.Name)
                 {
-                    students.Add(s);
-
-                    // Print confirmation & return to end
-                    Console.WriteLine($"Added {s.Name} to the roster.");
+                    // Confirmation message & return to end
+                    Console.WriteLine($"Unable to add {s.Name} to roster: {s.Name} already exists.");
 
                     return;
                 }
             }
 
-            // Confirmation message & return to end
-            Console.WriteLine($"Unable to add {s.Name} to roster: {s.Name} already exists.");
+            students.Add(s);
+
+            // Print confirmation & return to end
+            Console.WriteLine($"Added {s.Name} to the roster.");
 
             return;
         }
